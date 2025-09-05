@@ -1,2 +1,2 @@
 # TempleteOne
-HTML AND CSS
+HTML and CSS
